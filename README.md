@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/rezalaal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rezalaal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/rezalaal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rezalaal" height="30" width="40" /></a>
 <a href="https://instagram.com/rezalaal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rezalaal" height="30" width="40" /></a>
-<a href="https://discord.gg/3708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3708" height="30" width="40" /></a>
+<a href="https://discord.gg/rezalaal#3708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3708" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
