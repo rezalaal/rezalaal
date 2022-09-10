@@ -3,11 +3,11 @@
 
 
 
-- 🔭 I’m currently working on [Raga](raga-co.com)
+- 🔭 I’m currently working on [Raga](https://raga-co.com)
 
 - 🌱 I’m currently learning **PHP, Laravel, Python, Django**
 
-- 👯 I’m currently working on [Daria](dariacard.com)
+- 👯 I’m currently working on [Daria](https://dariacard.com)
 
 - 💬 Ask me about **Laravel**
 
