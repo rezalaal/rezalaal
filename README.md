@@ -3,7 +3,6 @@
 
 
 
-- 🔭 I’m currently working on [Raga](https://raga-co.com)
 
 - 🌱 I’m currently learning **PHP, Laravel, Python, Django**
 
